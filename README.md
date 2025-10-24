@@ -97,15 +97,6 @@ QuantumIncidentResponse/
 
 ---
 
-## 🚀 Future Improvements
-
-🔹 Integration with **real-world quantum threat datasets**
-🔹 AI-powered **incident response recommendations**
-🔹 Cloud-hosted simulation environment
-🔹 Exporting analytics as PDF or CSV
-
----
-
 ## 🧑‍💻 Author
 
 **Naveen Samidurai**
