@@ -33,7 +33,7 @@ Built with **Streamlit**, the simulator provides an **interactive GUI** for gene
 | Data Visualization | Matplotlib / Plotly              |
 | Backend Logic      | Python 3.10+                     |
 | Data Handling      | Pandas, NumPy                    |
-| Documentation      | Report (DOCX), README (Markdown) |
+| Documentation      | README (Markdown) |
 
 ---
 
