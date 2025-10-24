@@ -65,10 +65,20 @@ Built with **Streamlit**, the simulator provides an **interactive GUI** for gene
 
 ## 📈 Sample Output
 
-> Below are example visuals of how the simulator displays quantum incidents and response analytics.
+Below are example visuals of how the simulator displays quantum incidents and response analytics.
 
-🖼️ *(Placeholder for Interface Screenshot)*
-🖼️ *(Placeholder for Graph Screenshot)*
+### 🏠 Home Page
+![Home Page](Screenshots/home_page.png)
+
+### 🕒 Timeline
+![Timeline](Screenshots/Timeline.png)
+
+### 📊 Resolved vs Unresolved
+![Resolved vs Unresolved](Screenshots/Graphs_Resolved_vs_Unresolved.png)
+
+### ⏱️ Distribution - Time to Resolve
+![Distribution Time to Resolve](Screenshots/Distribution_Time_to_Resolve.png)
+
 
 
 ---
